@@ -225,18 +225,18 @@
     // Cấu hình thông báo Chống Scam & Chúc mừng Lên Gold DÀNH RIÊNG CHO SHADOWROCKET (VŨ MINH PHONG)
 
     const CUSTOM_POPUP_CONFIG = {
-        "tag": "LOCKET GOLD VIP",
+        "tag": "LOCKET GOLD",
         "tag_gradient": true,
         "tag_style": "gold_gradient",
         "title": "Done Lên Gold",
         "feature_set": [{
             "title": "Locket Gold by nothing",
-            "body": "Kích Hoạt Thành Công 💕",
+            "body": "Kích Hoạt Thành Công",
             "imageURL": "https://media.discordapp.net/attachments/1117268243913134093/1573696607763959828/def4bf7b98c7383b0e66b3f0278c415f.jpg?ex=6b02f2ad&is=6b01a12d&hm=66223b68b326ae71e74a445781ebd554aec484b88433cc5fdb09b9185b31973c"
         }],
         "primary_button_title": "Vào Dùng Ngay",
-        "campaign": "locket_gold_welcome_ducminh",
-        "start_at": "2020-01-01T00:00:00",
+        "campaign": "locket_gold_welcome_nothing",
+        "start_at": "2024-08-17T00:00:00",
         "end_at": "2099-12-31T23:59:59",
         "use_local_time_zone": true
     };
